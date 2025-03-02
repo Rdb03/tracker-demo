@@ -1,0 +1,31 @@
+:root {
+
+    /* Контейнер */
+    --container-width: 1250px;
+
+    /* Цветовая палитра */
+    --primary-color: #5e5a4e;
+    --secondary-color: #a1a5b1;
+    --error-color: #996666;
+
+    /* Шрифты */
+    --font-family: 'Roboto', sans-serif;
+    --font-size-base: 16px;
+
+    /* Отступы */
+    --spacing-small: 8px;
+    --spacing-medium: 16px;
+    --spacing-large: 24px;
+    --spacing-left-small: 8px;
+    --spacing-left-medium: 24px;
+    --spacing-left-large: 48px;
+    --spacing-right-small: 8px;
+    --spacing-right-medium: 16px;
+    --spacing-right-large: 24px;
+
+    /* Другие переменные */
+    --border-radius: 4px;
+
+    /* Позиционирование */
+
+}
